@@ -1,9 +1,0 @@
-if game.PlaceId == 10202329527 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/summonallah/yaku/main/ProjectMugetsu"))()
-elseif game.PlaceId == 13117265227 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/summonallah/yaku/main/ProjectMugetsu"))()
-elseif game.PlaceId == 9474703390 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/summonallah/yaku/main/ProjectMugetsu"))()
-elseif game.PlaceId == 14246716490 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/summonallah/yaku/main/ProjectMugetsu"))()
-end
