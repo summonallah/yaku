@@ -1,3 +1,3 @@
 if game.PlaceId == 13772394625 then
- loadstring(game:HttpGet("https://raw.githubusercontent.com/summonallah/yaku/main/BladeB4llSupport"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/summonallah/yaku/main/Bladeball%20SRC"))()
 end
